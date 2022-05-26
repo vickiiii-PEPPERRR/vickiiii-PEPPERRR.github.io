@@ -1,0 +1,53 @@
+html, body{
+  background-color: #fadfdb;
+}
+
+.btn-primary{
+  background-color: #ff6f66;
+  border: 1px solid #ffffff;
+}
+
+.btn-primary:hover{
+  background-color: #ff1616;
+  border: 3px solid #ff6f66;
+}
+
+.dropdown-menu{
+  background-color: #fdd8d2;
+}
+
+.dropdown-item{
+  color: #ffffff;
+}
+
+.card {
+  background-color: #ffbfb5;
+}
+
+.navbar {
+  background-color:#ffbfb5;
+  border-bottom:  5px solid #ffffff;
+}
+.pic{
+  max-width: 100%;
+}
+
+.pad{
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.pad1{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+footer {
+  background-color:#ffbfb5;
+  border-top:  5px solid #ffffff;
+  color: #ffffff;
+  padding-top: 2rem;
+}
+.media {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
